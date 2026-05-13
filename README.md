@@ -1,4 +1,3 @@
-```markdown
 # Agentic Financial Intelligence System
 
 An intelligent, autonomous personal finance assistant accessible via Telegram. This system leverages an Agentic AI Architecture (powered by LangGraph and OpenRouter) to understand natural language, securely manage PostgreSQL databases, and provide actionable financial insights.
