@@ -1,0 +1,12 @@
+python-telegram-bot[webhooks]>=21.0
+fastapi
+uvicorn[standard]
+langgraph>=0.2
+langchain-core
+langchain-openai
+pydantic-ai>=0.0.18
+sqlalchemy[asyncio]
+asyncpg
+python-dotenv
+pydantic>=2.0
+pydantic-settings
