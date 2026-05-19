@@ -1,4 +1,4 @@
-# Agentic Financial Intelligence System
+#### Agentic Financial Intelligence System
 
 An autonomous, multi-agent personal finance assistant delivered through a Telegram interface. The system uses a LangGraph state machine to orchestrate specialized AI agents that understand natural language, extract structured financial data, interact with a PostgreSQL database, and respond in natural conversational language â€” all without performing any arithmetic in the LLM layer.
 
